@@ -8,9 +8,9 @@ function App() {
   return (
     <div>
       <h1>Image Analysis and Generation</h1>
-      <input type="text" placeholder="Enter the URL of the image or the prompt of the image to generate" />
-      <button>Image Analysis</button>
-      <button>Image Generation</button>
+      <input type="text" placeholder="Enter the URL of the image or the prompt of the image to generate" /><br />
+      <button>Analysis</button>
+      <button> Generation</button>
     </div>
   );
 
